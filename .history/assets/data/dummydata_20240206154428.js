@@ -208,7 +208,7 @@ export const teamdata = [
   {
     id: 3,
     title: "Sajid Javed",
-    cover: "../images/sajid.jpg",
+    cover: "../images/t3.jpg",
     post: "Cloud engineer",
   },
   // {

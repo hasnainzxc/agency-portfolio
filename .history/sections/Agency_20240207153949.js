@@ -20,9 +20,9 @@ const Agency = () => {
           <div className="content flex1">
             <div className="left w-60 py">
               <TitleSm title="Turning your business ideas into smart digital products since 2001" />
-              {/* <p className="desc-p">
+              <p className="desc-p">
                 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
-              </p> */}
+              </p>
               <div className="grid-3">
                 <div className="box">
                   <h1 className="indigo">10+</h1>
@@ -63,23 +63,22 @@ const Agency = () => {
               <TitleSm title="Our mission" />
               <br />
               <p className="misson-p">
-                At Vertex Solutions, we are driven by a singular mission: to
-                empower businesses through innovative digital solutions. We
-                combine advanced technology with strategic insight to deliver
-                unparalleled results for our clients. Our goal is to transform
-                ideas into reality, providing tailored solutions that fuel
-                growth and success in today's dynamic market. With dedication
-                and expertise, we strive to be the catalyst for your business's
-                digital evolution.
+                Fusce fringilla justo vel dui consectetur, fringilla maximus
+                ante malesuada. Suspendisse facilisis nisl augue, ut
+                sollicitudin lectus ipsum dolor sit amet, consectetur adipiscing
+                elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Veritatis esse vitae officia nostrum facere. Fugiat voluptates,
+                expedita dolore at perferendis quae libero fuga consequatur
+                veniam, eius non fugit nulla vitae?
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* <Brand />
-      <Testimonial /> */}
-      {/* <Banner /> */}
+      <Brand />
+      <Testimonial />
+      <Banner />
       <br />
       <br />
       <br />

@@ -20,9 +20,9 @@ const Agency = () => {
           <div className="content flex1">
             <div className="left w-60 py">
               <TitleSm title="Turning your business ideas into smart digital products since 2001" />
-              {/* <p className="desc-p">
+              <p className="desc-p">
                 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
-              </p> */}
+              </p>
               <div className="grid-3">
                 <div className="box">
                   <h1 className="indigo">10+</h1>

@@ -195,21 +195,21 @@ export const blogdata = [
 export const teamdata = [
   {
     id: 1,
-    title: "Hasnain",
-    cover: "../images/hasnain.jpg",
+    title: "Alexander Black",
+    cover: "../images/t1.jpg",
     post: "FOUNDER, CEO",
   },
   {
     id: 2,
-    title: "Yasir khan",
-    cover: "../images/yasir.jpg",
+    title: "Anna Kovalenko",
+    cover: "../images/t2.jpg",
     post: "FINANCE DIRECTOR",
   },
   {
     id: 3,
-    title: "Sajid Javed",
-    cover: "../images/sajid.jpg",
-    post: "Cloud engineer",
+    title: "Tiffany White",
+    cover: "../images/t3.jpg",
+    post: "CREATIVE DIRECTOR",
   },
   // {
   //   id: 4,

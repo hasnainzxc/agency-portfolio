@@ -196,19 +196,19 @@ export const teamdata = [
   {
     id: 1,
     title: "Hasnain",
-    cover: "../images/hasnain.jpg",
+    cover: "../images/t1.jpg",
     post: "FOUNDER, CEO",
   },
   {
     id: 2,
     title: "Yasir khan",
-    cover: "../images/yasir.jpg",
+    cover: "../images/t2.jpg",
     post: "FINANCE DIRECTOR",
   },
   {
     id: 3,
     title: "Sajid Javed",
-    cover: "../images/sajid.jpg",
+    cover: "../team/yasir.jpg",
     post: "Cloud engineer",
   },
   // {
